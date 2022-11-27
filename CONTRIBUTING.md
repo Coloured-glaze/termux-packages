@@ -255,7 +255,7 @@ request with new package. Pay attention to things listed below.
    equivalents. Termux installation prefix is
 
    ```
-   /data/data/com.termux/files/usr
+   /data/data/com.vmos.pro/osimg/r/ot01/data/data/com.termux/files/usr
    ```
 
    and can be considered as virtual rootfs.
