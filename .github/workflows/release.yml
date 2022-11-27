@@ -3,11 +3,11 @@ name: Generate bootstrap archives
 on:
   push:
     tags:
-    - 'v*'
-    
+    - 'v*' # android5
+
   workflow_dispatch:
 
-permissions: {} # none
+permissions: {} # none 
 
 concurrency:
   group: ${{ github.workflow }}
